@@ -1,0 +1,215 @@
+Can't open file "../src/shader/terrain.tc.fp"
+Shader "../src/shader/terrain.tc.fp" failed to compile: (0) : error C0000: syntax error, unexpected $end at token "<EOF>"
+
+Can't open file "../src/shader/terrain.te.fp"
+Shader "../src/shader/terrain.te.fp" failed to compile: (0) : error C0000: syntax error, unexpected $end at token "<EOF>"
+
+Can't open file "../src/shader/terrain.v.fp"
+Shader "../src/shader/terrain.v.fp" failed to compile: (0) : error C0000: syntax error, unexpected $end at token "<EOF>"
+
+Can't open file "../src/shader/terrain.f.fp"
+Shader "../src/shader/terrain.f.fp" failed to compile: (0) : error C0000: syntax error, unexpected $end at token "<EOF>"
+
+Program failed to link: Link info
+---------
+No shader objects attached.
+Can't open file "../src/shader/water.tc.fp"
+Shader "../src/shader/water.tc.fp" failed to compile: (0) : error C0000: syntax error, unexpected $end at token "<EOF>"
+
+Can't open file "../src/shader/water.te.fp"
+Shader "../src/shader/water.te.fp" failed to compile: (0) : error C0000: syntax error, unexpected $end at token "<EOF>"
+
+Can't open file "../src/shader/water.v.fp"
+Shader "../src/shader/water.v.fp" failed to compile: (0) : error C0000: syntax error, unexpected $end at token "<EOF>"
+
+Can't open file "../src/shader/water.f.fp"
+Shader "../src/shader/water.f.fp" failed to compile: (0) : error C0000: syntax error, unexpected $end at token "<EOF>"
+
+Program failed to link: Link info
+---------
+No shader objects attached.
+Uniform location "pv" does not exist!
+Uniform location "pv" does not exist!
+Uniform location "cameraPosition" does not exist!
+Uniform location "gridSpacing" does not exist!
+Uniform location "patchSize" does not exist!
+Uniform location "pixelsPerEdge" does not exist!
+Uniform location "viewportDim" does not exist!
+Uniform location "heightTexture" does not exist!
+Uniform location "matTexture" does not exist!
+Uniform location "materialColorTexture" does not exist!
+Uniform location "gridSpacing" does not exist!
+Uniform location "patchSize" does not exist!
+Uniform location "heightTexture" does not exist!
+Uniform location "reflectionCubemap" does not exist!
+Uniform location "pixelsPerEdge" does not exist!
+Uniform location "viewportDim" does not exist!
+Uniform location "markerColor" does not exist!
+Uniform location "brushRadius" does not exist!
+Uniform location "terrainLighting" does not exist!
+Uniform location "terrainMult" does not exist!
+Uniform location "occlusionSamples" does not exist!
+Uniform location "showMarker" does not exist!
+Uniform location "showConstantMarker" does not exist!
+Uniform location "constantMarkerColor" does not exist!
+Uniform location "constantMarkerPosition" does not exist!
+Uniform location "constantMarkerRadius" does not exist!
+Uniform location "pixelsPerEdge" does not exist!
+Uniform location "viewportDim" does not exist!
+Uniform location "markerColor" does not exist!
+Uniform location "brushRadius" does not exist!
+Uniform location "transparencyBase" does not exist!
+Uniform location "transparencyMult" does not exist!
+Uniform location "waterBase" does not exist!
+Uniform location "showMarker" does not exist!
+Uniform location "useReflections" does not exist!
+Uniform location "useTransparency" does not exist!
+Uniform location "pixelsPerEdge" does not exist!
+Uniform location "viewportDim" does not exist!
+Uniform location "markerColor" does not exist!
+Uniform location "brushRadius" does not exist!
+Uniform location "terrainLighting" does not exist!
+Uniform location "terrainMult" does not exist!
+Uniform location "occlusionSamples" does not exist!
+Uniform location "showMarker" does not exist!
+Uniform location "showConstantMarker" does not exist!
+Uniform location "constantMarkerColor" does not exist!
+Uniform location "constantMarkerPosition" does not exist!
+Uniform location "constantMarkerRadius" does not exist!
+Uniform location "pixelsPerEdge" does not exist!
+Uniform location "viewportDim" does not exist!
+Uniform location "markerColor" does not exist!
+Uniform location "brushRadius" does not exist!
+Uniform location "transparencyBase" does not exist!
+Uniform location "transparencyMult" does not exist!
+Uniform location "waterBase" does not exist!
+Uniform location "showMarker" does not exist!
+Uniform location "useReflections" does not exist!
+Uniform location "useTransparency" does not exist!
+Uniform location "pv" does not exist!
+Uniform location "pv" does not exist!
+Uniform location "cameraPosition" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "mousePos" does not exist!
+Uniform location "pixelsPerEdge" does not exist!
+Uniform location "viewportDim" does not exist!
+Uniform location "markerColor" does not exist!
+Uniform location "brushRadius" does not exist!
+Uniform location "terrainLighting" does not exist!
+Uniform location "terrainMult" does not exist!
+Uniform location "occlusionSamples" does not exist!
+Uniform location "showMarker" does not exist!
+Uniform location "showConstantMarker" does not exist!
+Uniform location "constantMarkerColor" does not exist!
+Uniform location "constantMarkerPosition" does not exist!
+Uniform location "constantMarkerRadius" does not exist!
+Uniform location "pixelsPerEdge" does not exist!
+Uniform location "viewportDim" does not exist!
+Uniform location "markerColor" does not exist!
+Uniform location "brushRadius" does not exist!
+Uniform location "transparencyBase" does not exist!
+Uniform location "transparencyMult" does not exist!
+Uniform location "waterBase" does not exist!
+Uniform location "showMarker" does not exist!
+Uniform location "useReflections" does not exist!
+Uniform location "useTransparency" does not exist!
+Uniform location "pixelsPerEdge" does not exist!
+Uniform location "viewportDim" does not exist!
+Uniform location "markerColor" does not exist!
+Uniform location "brushRadius" does not exist!
+Uniform location "terrainLighting" does not exist!
+Uniform location "terrainMult" does not exist!
+Uniform location "occlusionSamples" does not exist!
+Uniform location "showMarker" does not exist!
+Uniform location "showConstantMarker" does not exist!
+Uniform location "constantMarkerColor" does not exist!
+Uniform location "constantMarkerPosition" does not exist!
+Uniform location "constantMarkerRadius" does not exist!
+Uniform location "pixelsPerEdge" does not exist!
+Uniform location "viewportDim" does not exist!
+Uniform location "markerColor" does not exist!
+Uniform location "brushRadius" does not exist!
+Uniform location "transparencyBase" does not exist!
+Uniform location "transparencyMult" does not exist!
+Uniform location "waterBase" does not exist!
+Uniform location "showMarker" does not exist!
+Uniform location "useReflections" does not exist!
+Uniform location "useTransparency" does not exist!
+Uniform location "pixelsPerEdge" does not exist!
+Uniform location "viewportDim" does not exist!
+Uniform location "markerColor" does not exist!
+Uniform location "brushRadius" does not exist!
+Uniform location "terrainLighting" does not exist!
+Uniform location "terrainMult" does not exist!
+Uniform location "occlusionSamples" does not exist!
+Uniform location "showMarker" does not exist!
+Uniform location "showConstantMarker" does not exist!
+Uniform location "constantMarkerColor" does not exist!
+Uniform location "constantMarkerPosition" does not exist!
+Uniform location "constantMarkerRadius" does not exist!
+Uniform location "pixelsPerEdge" does not exist!
+Uniform location "viewportDim" does not exist!
+Uniform location "markerColor" does not exist!
+Uniform location "brushRadius" does not exist!
+Uniform location "transparencyBase" does not exist!
+Uniform location "transparencyMult" does not exist!
+Uniform location "waterBase" does not exist!
+Uniform location "showMarker" does not exist!
+Uniform location "useReflections" does not exist!
+Uniform location "useTransparency" does not exist!
+Uniform location "pixelsPerEdge" does not exist!
+Uniform location "viewportDim" does not exist!
+Uniform location "markerColor" does not exist!
+Uniform location "brushRadius" does not exist!
+Uniform location "terrainLighting" does not exist!
+Uniform location "terrainMult" does not exist!
+Uniform location "occlusionSamples" does not exist!
+Uniform location "showMarker" does not exist!
+Uniform location "showConstantMarker" does not exist!
+Uniform location "constantMarkerColor" does not exist!
+Uniform location "constantMarkerPosition" does not exist!
+Uniform location "constantMarkerRadius" does not exist!
+Uniform location "pixelsPerEdge" does not exist!
+Uniform location "viewportDim" does not exist!
+Uniform location "markerColor" does not exist!
+Uniform location "brushRadius" does not exist!
+Uniform location "transparencyBase" does not exist!
+Uniform location "transparencyMult" does not exist!
+Uniform location "waterBase" does not exist!
+Uniform location "showMarker" does not exist!
+Uniform location "useReflections" does not exist!
+Uniform location "useTransparency" does not exist!
