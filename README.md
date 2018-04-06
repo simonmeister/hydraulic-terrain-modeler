@@ -1,4 +1,4 @@
-# Water simulation on 2D terrain
+# Hydraulic Terrain Modeler
 
 This (very early, pre-university) work implements a simple 2D grid-based terrain modeler with water simulation and support for water-based erosion, as well as fast online rendering based on GPU tesselation. Terrain can be imported and exported from and to TIF and PNG files. An interactive "brush" enables adding or removing terrain material and sourcing water for on-the-fly modeling, and water sources can be placed for simulation of constant sourcing.
 
